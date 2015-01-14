@@ -3,6 +3,24 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>famousQuote</key>
+		<string>&quot;Poznat citat.&quot;</string>
+		<key>personName</key>
+		<string>Ime Prezime</string>
+	</dict>
+	<dict>
+		<key>famousQuote</key>
+		<string>&quot;Ha ha ha ha ha. Hahahaha.&quot;</string>
+		<key>personName</key>
+		<string>Pera Detlic</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>Nikola Jolic</string>
+		<key>famousQuote</key>
+		<string>&quot;Neka moja mudrost.&quot;</string>
+	</dict>
+	<dict>
 		<key>personName</key>
 		<string>Martin Luther King, Jr.</string>
 		<key>famousQuote</key>
